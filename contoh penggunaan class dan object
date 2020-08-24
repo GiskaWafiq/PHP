@@ -1,0 +1,6 @@
+</php
+class sepatu{
+}
+$Sepatu_Giska = New Sepatu();
+$Sepatu_Putri = New Sepatu();
+?>
