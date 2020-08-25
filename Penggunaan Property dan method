@@ -1,0 +1,16 @@
+<?php
+class kelinci{
+  public $telinga = "panjang",
+         $warna = "putih";
+}
+$kelinci = new kelinci();
+?>
+
+method 
+<?php
+   public function berjalan (){
+    echo "melompat";
+   }
+}
+$kelinci = new kelinci();
+?>
